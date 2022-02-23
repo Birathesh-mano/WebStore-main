@@ -1,2 +1,2 @@
-# WebStore for Retail
+# WebStore for Retail using react and firebase
  
